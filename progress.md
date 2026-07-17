@@ -1,16 +1,10 @@
 # Progress Log
 
-Track here. Format: `Day DD — Problem — Pattern — Notes`.
+Date started: July 2026
 
-| Day | Problem | Pattern | Difficulty | Notes |
-|-----|---------|---------|-----------|-------|
-| 1 | Two Sum | Hashmap (one-pass) | Easy | Optimal O(n) via complement lookup in dict |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
+| Date | Day | Topic | Problem | Pattern | Notes |
+|------|-----|-------|---------|---------|-------|
+| Jul 11 | 1 | Arrays & Hashing | Two Sum | Hashmap (one-pass) | O(n) via complement lookup in dict |
 
 ## Recurring mistakes (fill as you go)
 -
