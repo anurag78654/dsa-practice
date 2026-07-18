@@ -19,8 +19,8 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 
 | # | Problem | Pattern | Status |
 |---|---------|---------|--------|
-| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Hashing | ☐ |
-| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Hashing | ☐ |
+| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Hashing | ✅ |
+| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Hashing | ✅ |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Hashmap (one-pass) | ✅ |
 | 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Hashing + Sorting | ☐ |
 | 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Bucket sort / Heap | ☐ |
