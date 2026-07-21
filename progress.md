@@ -9,6 +9,7 @@ Date started: July 2026
 | Jul 18 | 3 | Arrays & Hashing | Valid Anagram | Hashing | Compare sorted strings or char counts |
 | Jul 18 | 4 | Arrays & Hashing | Group Anagrams | Hashing + Sorting | Sort each word, group by sorted key |
 | Jul 18 | 5 | Arrays & Hashing | Top K Frequent Elements | Bucket sort / Heap | Count freq, bucket by count |
+| Jul 19 | 6 | Arrays & Hashing | Product of Array Except Self | Prefix / Suffix | Left pass * right pass |
 
 ## Recurring mistakes
 -

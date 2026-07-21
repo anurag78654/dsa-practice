@@ -24,7 +24,7 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Hashmap (one-pass) | ✅ |
 | 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Hashing + Sorting | ✅ |
 | 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Bucket sort / Heap | ✅ |
-| 6 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Prefix / Suffix | ☐ |
+| 6 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Prefix / Suffix | ✅ |
 | 7 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Hashing | ☐ |
 | 8 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Encoding scheme | ☐ |
 | 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hash set | ☐ |
