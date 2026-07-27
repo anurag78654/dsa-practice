@@ -12,9 +12,10 @@ Date started: July 2026
 | Jul 16 | 6 | Arrays & Hashing | Product of Array Except Self | Prefix / Suffix | Left pass * right pass |
 | Jul 23 | 7 | Arrays & Hashing | Valid Sudoku | Hashing | Track seen in rows, cols, 3x3 boxes |
 | Jul 24 | 8 | Arrays & Hashing | Longest Consecutive Sequence | Hash set | O(n) via set lookup for sequence starts |
+| Jul 24 | 9 | Two Pointers | Valid Palindrome | Two pointers | Two-pointer from ends, skip non-alnum |
 
 ## Skipped
-- Encode and Decode Strings (premium / not attempted)
+- Encode and Decode Strings (premium)
 
 ## Recurring mistakes
 -
