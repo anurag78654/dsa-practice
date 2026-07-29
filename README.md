@@ -34,7 +34,7 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 | # | Problem | Pattern | Status |
 |---|---------|---------|--------|
 | 1 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two pointers | ✅ |
-| 2 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two pointers | ☐ |
+| 2 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two pointers | ✅ |
 | 3 | [3Sum](https://leetcode.com/problems/3sum/) | Two pointers | ☐ |
 | 4 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two pointers | ☐ |
 | 5 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Two pointers | ☐ |

@@ -13,6 +13,7 @@ Date started: July 2026
 | Jul 23 | 7 | Arrays & Hashing | Valid Sudoku | Hashing | Track seen in rows, cols, 3x3 boxes |
 | Jul 24 | 8 | Arrays & Hashing | Longest Consecutive Sequence | Hash set | O(n) via set lookup for sequence starts |
 | Jul 24 | 9 | Two Pointers | Valid Palindrome | Two pointers | Two-pointer from ends, skip non-alnum |
+| Jul 29 | 10 | Two Pointers | Two Sum II | Two pointers | Two-pointer from ends, adjust by sum |
 
 ## Skipped
 - Encode and Decode Strings (premium)
