@@ -14,6 +14,7 @@ Date started: July 2026
 | Jul 24 | 8 | Arrays & Hashing | Longest Consecutive Sequence | Hash set | O(n) via set lookup for sequence starts |
 | Jul 24 | 9 | Two Pointers | Valid Palindrome | Two pointers | Two-pointer from ends, skip non-alnum |
 | Jul 29 | 10 | Two Pointers | Two Sum II | Two pointers | Two-pointer from ends, adjust by sum |
+| Aug 5 | 11 | Two Pointers | 3Sum | Two pointers | Sort, fix one, two-sum the rest, dedupe |
 
 ## Skipped
 - Encode and Decode Strings (premium)
