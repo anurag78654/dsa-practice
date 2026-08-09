@@ -15,6 +15,7 @@ Date started: July 2026
 | Jul 24 | 9 | Two Pointers | Valid Palindrome | Two pointers | Two-pointer from ends, skip non-alnum |
 | Jul 29 | 10 | Two Pointers | Two Sum II | Two pointers | Two-pointer from ends, adjust by sum |
 | Aug 5 | 11 | Two Pointers | 3Sum | Two pointers | Sort, fix one, two-sum the rest, dedupe |
+| Aug 9 | 12 | Two Pointers | Container With Most Water | Two pointers | Move shorter side inward, track max area |
 
 ## Skipped
 - Encode and Decode Strings (premium)
