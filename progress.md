@@ -16,6 +16,7 @@ Date started: July 2026
 | Jul 29 | 10 | Two Pointers | Two Sum II | Two pointers | Two-pointer from ends, adjust by sum |
 | Aug 5 | 11 | Two Pointers | 3Sum | Two pointers | Sort, fix one, two-sum the rest, dedupe |
 | Aug 9 | 12 | Two Pointers | Container With Most Water | Two pointers | Move shorter side inward, track max area |
+| Aug 14 | 13 | Two Pointers | Trapping Rain Water | Two pointers | Min(leftMax, rightMax) - height, two max pointers |
 
 ## Skipped
 - Encode and Decode Strings (premium)

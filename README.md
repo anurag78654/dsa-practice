@@ -29,7 +29,7 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 | 8 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Encoding scheme | ⛔ |
 | 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Hash set | ✅ |
 
-### ☐ Two Pointers
+### ✅ Two Pointers
 
 | # | Problem | Pattern | Status |
 |---|---------|---------|--------|
@@ -37,7 +37,7 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 | 2 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two pointers | ✅ |
 | 3 | [3Sum](https://leetcode.com/problems/3sum/) | Two pointers | ✅ |
 | 4 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Two pointers | ✅ |
-| 5 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Two pointers | ☐ |
+| 5 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Two pointers | ✅ |
 
 ### ☐ Sliding Window
 
