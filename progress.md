@@ -18,6 +18,7 @@ Date started: July 2026
 | Aug 9 | 12 | Two Pointers | Container With Most Water | Two pointers | Move shorter side inward, track max area |
 | Aug 14 | 13 | Two Pointers | Trapping Rain Water | Two pointers | Min(leftMax, rightMax) - height, two max pointers |
 | Aug 17 | 14 | Sliding Window | Best Time to Buy & Sell Stock | Sliding window | Reset buy on dip, track max profit |
+| Aug 18 | 15 | Sliding Window | Longest Substring Without Repeating Characters | Sliding window | Shrink while duplicate, track max window |
 
 ## Skipped
 - Encode and Decode Strings (premium)
