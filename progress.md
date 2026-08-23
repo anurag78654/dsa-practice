@@ -20,6 +20,7 @@ Date started: July 2026
 | Aug 17 | 14 | Sliding Window | Best Time to Buy & Sell Stock | Sliding window | Reset buy on dip, track max profit |
 | Aug 18 | 15 | Sliding Window | Longest Substring Without Repeating Characters | Sliding window | Shrink while duplicate, track max window |
 | Aug 19 | 16 | Sliding Window | Longest Repeating Character Replacement | Sliding window | Valid while replacements <= k |
+| Aug 23 | 17 | Sliding Window | Permutation in String | Sliding window | Fixed window size len(s1), sort & compare |
 
 ## Skipped
 - Encode and Decode Strings (premium)
