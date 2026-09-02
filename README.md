@@ -47,7 +47,7 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 | 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Sliding window | ✅ |
 | 3 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Sliding window | ✅ |
 | 4 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Sliding window | ✅ |
-| 5 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Sliding window | ☐ |
+| 5 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Sliding window | ✅ |
 | 6 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Deque | ☐ |
 
 ### ☐ Stack

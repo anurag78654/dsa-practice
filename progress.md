@@ -21,6 +21,7 @@ Date started: July 2026
 | Aug 18 | 15 | Sliding Window | Longest Substring Without Repeating Characters | Sliding window | Shrink while duplicate, track max window |
 | Aug 19 | 16 | Sliding Window | Longest Repeating Character Replacement | Sliding window | Valid while replacements <= k |
 | Aug 23 | 17 | Sliding Window | Permutation in String | Sliding window | Fixed window size len(s1), sort & compare |
+| Sep 2 | 18 | Sliding Window | Minimum Window Substring | Sliding window | Expand to satisfy, shrink to minimize |
 
 ## Skipped
 - Encode and Decode Strings (premium)
