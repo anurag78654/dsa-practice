@@ -55,7 +55,7 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 | # | Problem | Pattern | Status |
 |---|---------|---------|--------|
 | 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | ✅ |
-| 2 | [Min Stack](https://leetcode.com/problems/min-stack/) | Stack | ☐ |
+| 2 | [Min Stack](https://leetcode.com/problems/min-stack/) | Stack | ✅ |
 | 3 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Stack | ☐ |
 | 4 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Stack / Backtracking | ☐ |
 | 5 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Monotonic stack | ☐ |

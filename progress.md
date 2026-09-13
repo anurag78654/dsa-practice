@@ -23,6 +23,7 @@ Date started: July 2026
 | Aug 23 | 17 | Sliding Window | Permutation in String | Sliding window | Fixed window size len(s1), sort & compare |
 | Sep 2 | 18 | Sliding Window | Minimum Window Substring | Sliding window | Expand to satisfy, shrink to minimize |
 | Sep 13 | 19 | Stack | Valid Parentheses | Stack | Push opens, pop matching close |
+| Sep 13 | 20 | Stack | Min Stack | Stack | Parallel stack tracking current min |
 
 ## Skipped
 - Encode and Decode Strings (premium)
