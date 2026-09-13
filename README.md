@@ -48,13 +48,13 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 | 3 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Sliding window | ✅ |
 | 4 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Sliding window | ✅ |
 | 5 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Sliding window | ✅ |
-| 6 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Deque | ☐ |
+| 6 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Deque | ⛔ |
 
 ### ☐ Stack
 
 | # | Problem | Pattern | Status |
 |---|---------|---------|--------|
-| 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | ☐ |
+| 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Stack | ✅ |
 | 2 | [Min Stack](https://leetcode.com/problems/min-stack/) | Stack | ☐ |
 | 3 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Stack | ☐ |
 | 4 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Stack / Backtracking | ☐ |
