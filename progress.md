@@ -24,6 +24,7 @@ Date started: July 2026
 | Sep 2 | 18 | Sliding Window | Minimum Window Substring | Sliding window | Expand to satisfy, shrink to minimize |
 | Sep 13 | 19 | Stack | Valid Parentheses | Stack | Push opens, pop matching close |
 | Sep 13 | 20 | Stack | Min Stack | Stack | Parallel stack tracking current min |
+| Sep 16 | 21 | Stack | Evaluate Reverse Polish Notation | Stack | Push nums, pop and apply operator |
 
 ## Skipped
 - Encode and Decode Strings (premium)
