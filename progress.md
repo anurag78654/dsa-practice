@@ -25,10 +25,12 @@ Date started: July 2026
 | Sep 13 | 19 | Stack | Valid Parentheses | Stack | Push opens, pop matching close |
 | Sep 13 | 20 | Stack | Min Stack | Stack | Parallel stack tracking current min |
 | Sep 16 | 21 | Stack | Evaluate Reverse Polish Notation | Stack | Push nums, pop and apply operator |
+| Sep 17 | 22 | Stack | Daily Temperatures | Monotonic stack | Pop when warmer, fill wait days |
 
 ## Skipped
 - Encode and Decode Strings (premium)
 - Sliding Window Maximum (deque-based, low priority)
+- Generate Parentheses (backtracking, will revisit)
 
 ## Recurring mistakes
 -
