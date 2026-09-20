@@ -26,6 +26,8 @@ Date started: July 2026
 | Sep 13 | 20 | Stack | Min Stack | Stack | Parallel stack tracking current min |
 | Sep 16 | 21 | Stack | Evaluate Reverse Polish Notation | Stack | Push nums, pop and apply operator |
 | Sep 17 | 22 | Stack | Daily Temperatures | Monotonic stack | Pop when warmer, fill wait days |
+| Sep 18 | 23 | Stack | Car Fleet | Monotonic stack | Sort by position, compare arrival times |
+| Sep 20 | 24 | Binary Search | Binary Search | Binary search | Standard halve, overflow-safe mid |
 
 ## Skipped
 - Encode and Decode Strings (premium)

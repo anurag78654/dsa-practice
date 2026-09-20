@@ -50,7 +50,7 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 | 5 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Sliding window | ✅ |
 | 6 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Deque | ⛔ |
 
-### ☐ Stack
+### ✅ Stack
 
 | # | Problem | Pattern | Status |
 |---|---------|---------|--------|
@@ -59,13 +59,13 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 | 3 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Stack | ✅ |
 | 4 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Stack / Backtracking | ⛔ |
 | 5 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Monotonic stack | ✅ |
-| 6 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Monotonic stack | ☐ |
+| 6 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | Monotonic stack | ✅ |
 
 ### ☐ Binary Search
 
 | # | Problem | Pattern | Status |
 |---|---------|---------|--------|
-| 1 | [Binary Search](https://leetcode.com/problems/binary-search/) | Binary search | ☐ |
+| 1 | [Binary Search](https://leetcode.com/problems/binary-search/) | Binary search | ✅ |
 | 2 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Binary search | ☐ |
 | 3 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary search | ☐ |
 | 4 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Binary search | ☐ |
