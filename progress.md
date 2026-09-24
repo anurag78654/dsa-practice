@@ -29,6 +29,7 @@ Date started: July 2026
 | Sep 18 | 23 | Stack | Car Fleet | Monotonic stack | Sort by position, compare arrival times |
 | Sep 20 | 24 | Binary Search | Binary Search | Binary search | Standard halve, overflow-safe mid |
 | Sep 22 | 25 | Binary Search | Search a 2D Matrix | Binary search | Flatten to 1D, map mid to row/col |
+| Sep 24 | 26 | Binary Search | Koko Eating Bananas | Binary search | Binary search speed, check hours |
 
 ## Skipped
 - Encode and Decode Strings (premium)

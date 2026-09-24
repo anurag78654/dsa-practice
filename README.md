@@ -67,7 +67,7 @@ Daily Data Structures & Algorithms practice following the [NeetCode 150](https:/
 |---|---------|---------|--------|
 | 1 | [Binary Search](https://leetcode.com/problems/binary-search/) | Binary search | ✅ |
 | 2 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Binary search | ✅ |
-| 3 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary search | ☐ |
+| 3 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary search | ✅ |
 | 4 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Binary search | ☐ |
 | 5 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Binary search | ☐ |
 | 6 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Binary search | ☐ |
